@@ -37,5 +37,5 @@ Please check the pdf document above to see the feedback's that I received on my 
 
 * I have found out that overall left handers perform slightly better than right handers in baseball.
 * Also as the height increases the batting average and homerun average decreases.
-* Players with height in between 70 to 76 inch and weight between 170 to 330 pounds have better performance then any other players.
+* Players with height in between 70 to 76 inch and weight between 170 to 230 pounds have better performance then any other players.
 * There is a positive correlation between batting average and homerun average but its not very strong.
