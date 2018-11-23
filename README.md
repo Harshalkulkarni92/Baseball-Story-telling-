@@ -6,8 +6,8 @@ This report aims to present the explanatory data visualization steps and to comm
 baseball players. The analysis is done using Tableau and a data set containing 1,157 baseball players including their 
 handedness (right or left handed or both), height (in inches), weight (in pounds), batting average, and home runs.
 
-[Initial link](https://public.tableau.com/profile/harshal.kulkarni8262#!/vizhome/BaseballTableauStory_1/Story1)
-[Final link](https://public.tableau.com/profile/harshal.kulkarni8262#!/vizhome/Baseballstoryfinal/PerformanceinBaseball)
+* [Initial link](https://public.tableau.com/profile/harshal.kulkarni8262#!/vizhome/BaseballTableauStory_1/Story1)
+* [Final link](https://public.tableau.com/profile/harshal.kulkarni8262#!/vizhome/Baseballstoryfinal/PerformanceinBaseball)
 
 ## SUMMARY
 In this project I have used different visualization techniques to communicate insights on baseball data. I have analysed the relationships 
